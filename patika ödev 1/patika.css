@@ -1,0 +1,27 @@
+.box{
+    text-align: center;
+    display: block;
+ }
+ .search{
+    text-align: center;
+    display: block;
+    background-color: #c0c0c0 ;
+}
+.head1{
+    margin-bottom: 0;
+
+}
+ .buton1{
+    margin-top: 0;
+    width: 500px;
+    height: 20px;
+ }
+.box1{
+   background-color: rgb(113, 170, 246);
+}
+.box2{
+   background-color: rgb(110, 206, 254);
+}
+.box3{
+   background-color: rgba(95, 95, 253, 0.747);
+}
